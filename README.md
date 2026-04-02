@@ -1,18 +1,9 @@
----
-title: "Real-Time Emotion Detection (RTED)"
-emoji: "😊"
-cover_image: "cover.png"
-sdk: "docker"
-sdk_version: "3.0.0"
-app_file: "app.py"
-python_version: "3.9"
-pinned: false
----
-
-
 # Real-Time Emotion Detection (RTED)
 
 This app uses a deep learning model to classify emotions from images and real-time video streams.
+
+###DEMO 
+https://huggingface.co/spaces/ShamsKhan404/Real_Time_Emotion_Detection
 
 ### How It Works
 1. **Choose a Detection Mode:**  
